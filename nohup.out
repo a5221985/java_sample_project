@@ -63,3 +63,7 @@ May 12, 2016 10:04:44 AM hudson.model.Run execute
 INFO: Sample Java Project #1 main build action completed: FAILURE
 May 12, 2016 10:06:18 AM hudson.model.Run execute
 INFO: Sample Java Project #2 main build action completed: SUCCESS
+May 12, 2016 10:19:01 AM hudson.triggers.SCMTrigger$Runner run
+INFO: SCM changes detected in Sample Java Project. Triggering  #3
+May 12, 2016 10:19:08 AM hudson.model.Run execute
+INFO: Sample Java Project #3 main build action completed: FAILURE
